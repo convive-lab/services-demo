@@ -6,3 +6,38 @@
 body {
   padding-top: 56px;
 }
+.card{
+
+}
+.card-img-top-div{
+  min-height:175px;
+  height:45%;
+  background-position: center;
+  background-color: white;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin:0 5px;
+}
+
+.cryptpad{
+  background-image: url('https://cryptpad.fr/customize/CryptPad_logo_color.svg');
+}
+.nextcloud{
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/6/60/Nextcloud_Logo.svg');
+}
+.mattermost{
+  background-image: url('https://mattermost.com/wp-content/themes/mattermostv3/img/logos/mm-color-logo.svg');
+}
+.wordpress{
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg');
+}
+.social{
+  background-image: url('../pics/social.jpg');
+  background-size: cover;
+  margin:0;
+}
+.crm{
+  background-image: url('../pics/crm.jpg');
+  background-size: cover;
+  margin:0;
+}
