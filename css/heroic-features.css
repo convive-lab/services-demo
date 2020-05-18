@@ -41,3 +41,7 @@ body {
   background-size: cover;
   margin:0;
 }
+
+#home, #services, #about{
+  padding-top:80px;
+}
